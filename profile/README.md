@@ -1,4 +1,4 @@
-![BANNER](assets\bia.png)
+![BANNER](/assets/bia.png)
 
 # KProTech Overview
 
