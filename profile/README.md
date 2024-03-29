@@ -1,4 +1,4 @@
-![BANNER](./assets/bia.png)
+<img src="/assets/bia.png" alt="Project Logo" width="50%">
 
 # KProTech Overview
 
