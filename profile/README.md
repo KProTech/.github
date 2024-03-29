@@ -1,3 +1,5 @@
+![BANNER](assets\bia.png)
+
 # KProTech Overview
 
 Welcome to KProTech, a cutting-edge technology company specializing in system infrastructure, server solutions, networking, and more. This README serves as a brief introduction to KProTech and its associated projects.
