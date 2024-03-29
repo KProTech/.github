@@ -1,4 +1,4 @@
-<img src="/assets/bia.png" alt="Project Logo" width="50%">
+<img src="/profile/assets/bia.png" alt="Project Logo" width="50%">
 
 # KProTech Overview
 
